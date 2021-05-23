@@ -18,7 +18,7 @@
 
 ## 🧾 Installation
 
-1. `git clone https://github.com/aleksandertabor/todo YOURPROJECTNAME`
+1. `git clone https://github.com/souravtah/livewire-todo.git YOURPROJECTNAME`
 2. `cd YOURPROJECTNAME`
 3. Install dependencies:
 
